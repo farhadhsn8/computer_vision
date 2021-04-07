@@ -1,0 +1,27 @@
+min:
+  org: 22
+  log: 21.102
+  pow: 31.103
+  adjust: -12.78
+
+max:
+  org: 254
+  log: 176.252
+  pow: 252.707
+  adjust: 351.785
+
+mean:
+  org: 161.189
+  log: 122.328
+  pow: 124.352
+  adjust: 205.94
+
+std:
+  org: 58.01
+  log: 36.79
+  pow: 60.63
+  adjust: 91.16
+
+
+
+  
